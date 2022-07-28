@@ -1,6 +1,7 @@
 ### Hi there 👋
-##**🔭 I’m currently studing in GHRCE **
- ##*🌱 I’m currently learning React*
+**🔭 I’m _currently_ studing in GHRCE**
+
+ **🌱 I’m _currently_ learning React**
  
 <!--
 **Mayur79/Mayur79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
