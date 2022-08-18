@@ -1,6 +1,6 @@
 ### Hi there 👋
-**🔭 _I’m currently studing in GHRCE_**
-
+**🔭 _I’m currently pursuing B.Tech in IT branch from G.H.RAISONI COLLEGE OF ENGINEERING NAGPUR.I have of knowledge of C,python and Java
+**I'm front-end Developer_**
  **🌱 _I’m currently learning Backend_**
  
 <!--
