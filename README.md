@@ -15,7 +15,9 @@
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sooty-nine-97.vercel.app/](https://my-portfolio-sooty-nine-97.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
-
+  
+- 👯 I’m looking to collaborate on open source project based on MERN Stack
+  
 - 📫 How to reach me **mayurbhoyar4455@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mVFyWRmNUjTFD_R4c57YQNHhXZUviJrj/view?usp=sharing](https://drive.google.com/file/d/1mVFyWRmNUjTFD_R4c57YQNHhXZUviJrj/view?usp=sharing)
