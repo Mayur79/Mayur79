@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sooty-nine-97.vercel.app/](https://my-portfolio-sooty-nine-97.vercel.app/)
 
-- 💬 Ask me about **React,Node**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **mayurbhoyar4455@gmail.com**
 
