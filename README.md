@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur79&show_icons=true&locale=en" alt="mayur79" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur79&" alt="mayur79" /></p>
+
+[![An image of @mayur79's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayur79)](https://holopin.io/@mayur79)
