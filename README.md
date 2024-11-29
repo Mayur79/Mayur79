@@ -26,46 +26,22 @@
 
 <hr>
 
-<h2>🛠️ <strong>Technical Skills</strong></h2>
+<h2>📦 Technologies</h2>
 
-<h3>Programming Languages</h3>
-<ul>
-  <li>C</li>
-  <li>Java</li>
-  <li>Python</li>
-  <li>JavaScript</li>
-</ul>
+<p>
+  <strong>Frontend:</strong> • HTML • CSS • React • Tailwind • Next.js • Bootstrap
+</p>
+<p>
+  <strong>Backend:</strong> • Node.js • Express.js
+</p>
+<p>
+  <strong>Database:</strong> • MongoDB • MySQL
+</p>
+<p>
+  <strong>Tools:</strong> • GitHub • AWS • Shopify
+</p>
 
-<h3>Frontend Development</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>React</li>
-  <li>Tailwind CSS</li>
-  <li>Next.js</li>
-  <li>Bootstrap</li>
-</ul>
 
-<h3>Backend Development</h3>
-<ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-</ul>
-
-<h3>Databases</h3>
-<ul>
-  <li>MongoDB</li>
-  <li>MySQL</li>
-</ul>
-
-<h3>Tools and Platforms</h3>
-<ul>
-  <li>GitHub</li>
-  <li>AWS</li>
-  <li>Shopify</li>
-</ul>
-
-<hr>
 
 <h2>🚀 <strong>What I'm Working On</strong></h2>
 <ul>
