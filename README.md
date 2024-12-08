@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **mayurbhoyar4455@gmail.com**
 
-- 📄 Know about my experiences https://shorturl.at/XeIVy
+- 📄 Know about my experiences [https://shorturl.at/XeIVy](http://surl.li/nvndbp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
