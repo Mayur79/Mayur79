@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sooty-nine-97.vercel.app/](https://my-portfolio-sooty-nine-97.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mayurbhoyar.vercel.app)
 
 - 💬 Ask me about **MERN Stack**
   
